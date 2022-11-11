@@ -1,0 +1,29 @@
+{
+  "name": "mofron-comp-cfmcodem",
+  "version": "0.0.1",
+  "description": "confirm code mobile component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-cfmcodem.git"
+  },
+  "dependencies": {
+    "mofron-comp-text": "",
+    "mofron-comp-numkeyboard": "",
+    "mofron-comp-line": "",
+    "mofron-effect-hrzpos": ""
+  },
+  "keywords": [
+    "mofron",
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-cfmcodem/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-cfmcodem#readme"
+}
